@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Python, Statistics, Crop modeling**
 
-- 📫 How to reach me **riglesmaia2018@gmail.com**
+- 📫 How to reach me **riglesmaia@usp.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
