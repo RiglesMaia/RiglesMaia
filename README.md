@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rigles Maia</h1>
-<h3 align="center">Animal Science and Pasture | Statistics | Crop Modeling | Remote Sensing | Machine Learning | Instrumentation</h3>
+<h1 align="center">Hi 🤠, I'm Rigles Maia</h1>
+<h3 align="center"> 🐮 Animal Science and Pasture | 📈 Statistics | 🌾 Crop Modeling | 🛰️ Remote Sensing | 🤖 Machine Learning | ⚙️ Instrumentation</h3>
 
 - 💬 Ask me about **Python, Statistics, Crop modeling**
 
